@@ -1,2 +1,2 @@
 # esp32cam_webserver
-webserver that stream esp32 cam data
+webserver that streams esp32 cam data
